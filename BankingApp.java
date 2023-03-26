@@ -1,5 +1,5 @@
 public class BankingApp {
-    public static void main(String[] args) {
+    public static void main(String[] arg) {
         SavingsAccount savingsAccount = new SavingsAccount(5000); // create a savings account with an initial balance of
                                                                   // 5000
         CheckingAccount checkingAccount = new CheckingAccount(1000); // create a checking account with an initial
